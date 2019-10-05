@@ -1,16 +1,16 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tippy!*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tippy the Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Your Name Here**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -27,14 +27,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/AWM42q9Rz0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Learning the syntax of the Mac computer and operating system was a challenge in itself. I am more accustomed to using windows and have never used a mac laptop before, but was drawn to learning how to develope apps for iOS since this would give me some sort of insight as to how to apps for my phone can be created. Also, being fairly new to code, I made numerous syntax mistakes (mispelling variables, forgetting to include end brackets) and it would take me a while to understand what the error messages where saying in the code editor. I also had to go through multiple iterations of this project. The first time I tired out the project, I made a mistake which resulted in red error messages along every other line that I was not able to fix so I restarted.  Nonetheless, the experience was rewarding as I got a glimpse into both the design aspect of mobile applications and figuring out the logic behind it. Being able to do this work is a powerful skillset: visualize an interface and effectively execute it. I know I was not able to implement the extra features, and it's not reflective of my interest or commitment to this project but I do plan on creating an updated version (within this week) that works smoother adn allows me to explore the other features available.  
 ## License
 
     Copyright [yyyy] [name of copyright owner]
